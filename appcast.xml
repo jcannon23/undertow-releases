@@ -3,13 +3,25 @@
     <channel>
         <title>Undertow</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Tue, 10 Nov 2026 16:30:32 -0700</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/jcannon23/undertow-releases/releases/download/v0.1.1/Undertow-0.1.1.zip" length="4557599" type="application/octet-stream" sparkle:edSignature="unieDU/HfK195HMidL/5T8c244U0xrqRJFjwoPijqvbo2h1+xy4zwbhoILXSZKpW/4x6VE9tj60ptKoxO69GDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jcannon23/undertow-releases/releases/download/v0.1.1/Undertow8-5.delta" sparkle:deltaFrom="5" length="148914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3Y9Oz5hruJTbaf/roFCftA34JRjODyw4Loma5ttnm37VXBtUBtL59ldmm1XzGl2eVJ21sXloriFJ2V0Fom6lBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Tue, 10 Nov 2026 15:49:09 -0700</pubDate>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/jcannon23/undertow-releases/releases/download/v0.1.0/Undertow-0.1.0.zip" length="4554968" type="application/octet-stream" sparkle:edSignature="5IENW4ANK9UwrVRZSIDZB/Js6usYZsmov5ZN7e7TwmSpl7i90oh9Nb89EwzYl7XJjGO3XFMhn8qSWcti3IChAg=="/>
+            <enclosure url="https://github.com/jcannon23/undertow-releases/releases/download/v0.1.1/Undertow-0.1.0.zip" length="4554968" type="application/octet-stream" sparkle:edSignature="5IENW4ANK9UwrVRZSIDZB/Js6usYZsmov5ZN7e7TwmSpl7i90oh9Nb89EwzYl7XJjGO3XFMhn8qSWcti3IChAg=="/>
         </item>
     </channel>
 </rss>
