@@ -3,13 +3,27 @@
     <channel>
         <title>Undertow</title>
         <item>
+            <title>0.1.3</title>
+            <pubDate>Wed, 11 Nov 2026 08:10:15 -0700</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/jcannon23/undertow-releases/releases/download/v0.1.3/Undertow-0.1.3.zip" length="4584783" type="application/octet-stream" sparkle:edSignature="Kf3N/+rG7kXIzbp8Ohq3JMtIrSMHr0deyVpHkDb2K5xsn9Te0xSDcqFElJSX2VXO2STkK3mwOTETP7Xnr4m8CA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jcannon23/undertow-releases/releases/download/v0.1.3/Undertow11-10.delta" sparkle:deltaFrom="10" length="209170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wwXn4tSvDjl1Zr45VqAq2bCL2WophJADOrqKO11260ucZJDyy1BGJ/n1XvB/+hGq35n495nM8HD9dlW5MkVsDg=="/>
+                <enclosure url="https://github.com/jcannon23/undertow-releases/releases/download/v0.1.3/Undertow11-8.delta" sparkle:deltaFrom="8" length="220974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vgarPUzq2r45W4d/7qUPNnKhrasXMx19u/KX9Ny6SYUPStuuVXcOWaw08U735XLaBYA4ySwsI5CWjwMNOSTqBQ=="/>
+                <enclosure url="https://github.com/jcannon23/undertow-releases/releases/download/v0.1.3/Undertow11-5.delta" sparkle:deltaFrom="5" length="233934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r1OWFae6knEKAhXvITlEgniiQJTbcOqv0ewSprl3CJhWJeKLdb3HcEvcbCwcYEIhGQVVBbVgjZOyy+wh2YPWCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.2</title>
             <pubDate>Wed, 11 Nov 2026 07:56:36 -0700</pubDate>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/jcannon23/undertow-releases/releases/download/v0.1.2/Undertow-0.1.2.zip" length="4562803" type="application/octet-stream" sparkle:edSignature="CXL0WBEJi5YYeg82ObR1LzCvvNou6YFF0Vsw151Okv6lRKuWUS3mEnoBoDcqx33mQdpyApeUDOHaurWMMoicAg=="/>
+            <enclosure url="https://github.com/jcannon23/undertow-releases/releases/download/v0.1.3/Undertow-0.1.2.zip" length="4562803" type="application/octet-stream" sparkle:edSignature="CXL0WBEJi5YYeg82ObR1LzCvvNou6YFF0Vsw151Okv6lRKuWUS3mEnoBoDcqx33mQdpyApeUDOHaurWMMoicAg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/jcannon23/undertow-releases/releases/download/v0.1.2/Undertow10-8.delta" sparkle:deltaFrom="8" length="175118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="79jDqsUQzLAPASYHtDtFn5MavM3hBqqwdYt2xuxawnNN7qKXyMifIQr5SFlvsjCKiz7RKI8Iia2qtpzs8uliBw=="/>
                 <enclosure url="https://github.com/jcannon23/undertow-releases/releases/download/v0.1.2/Undertow10-5.delta" sparkle:deltaFrom="5" length="193114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LMyp0aoPR+9FznecOg8U9RrvITlsBXDwInw+Ip0OWU5usGG4t6yYinXGOuEq3CmHvCutwW0GhQsLUAnWQ8nhBQ=="/>
@@ -22,19 +36,10 @@
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/jcannon23/undertow-releases/releases/download/v0.1.2/Undertow-0.1.1.zip" length="4557599" type="application/octet-stream" sparkle:edSignature="unieDU/HfK195HMidL/5T8c244U0xrqRJFjwoPijqvbo2h1+xy4zwbhoILXSZKpW/4x6VE9tj60ptKoxO69GDQ=="/>
+            <enclosure url="https://github.com/jcannon23/undertow-releases/releases/download/v0.1.3/Undertow-0.1.1.zip" length="4557599" type="application/octet-stream" sparkle:edSignature="unieDU/HfK195HMidL/5T8c244U0xrqRJFjwoPijqvbo2h1+xy4zwbhoILXSZKpW/4x6VE9tj60ptKoxO69GDQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/jcannon23/undertow-releases/releases/download/v0.1.1/Undertow8-5.delta" sparkle:deltaFrom="5" length="148914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3Y9Oz5hruJTbaf/roFCftA34JRjODyw4Loma5ttnm37VXBtUBtL59ldmm1XzGl2eVJ21sXloriFJ2V0Fom6lBA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Tue, 10 Nov 2026 15:49:09 -0700</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/jcannon23/undertow-releases/releases/download/v0.1.2/Undertow-0.1.0.zip" length="4554968" type="application/octet-stream" sparkle:edSignature="5IENW4ANK9UwrVRZSIDZB/Js6usYZsmov5ZN7e7TwmSpl7i90oh9Nb89EwzYl7XJjGO3XFMhn8qSWcti3IChAg=="/>
         </item>
     </channel>
 </rss>
